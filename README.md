@@ -15,7 +15,7 @@ Audio samples from [Apple's](http://www.apple.com/) [Logic](http://www.apple.com
 
 ## Misc
 
-Follow Josh Ellis:
+Follow Yuss:
 [GitHub](https://github.com/aitelkob),
 
 
